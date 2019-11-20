@@ -1,0 +1,12 @@
+.block1{
+	width:200px;
+	height:200px;
+	background-color:red;
+	transition: background-color 5s,width 10s ease-out,height 12s;
+}
+.block1:hover{
+	background-color:green;
+	width:500px;
+	height:600px;
+}
+	
